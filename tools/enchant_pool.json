@@ -1,0 +1,11327 @@
+[
+ {
+  "id": 24,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+5 Mana",
+  "effects": [
+   {
+    "type": 5,
+    "min": 5,
+    "max": 5,
+    "arg": 0,
+    "stat": "MANA"
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+4 All Resistances",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7438,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "tier": 1,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "+4 Beastslaying",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7433,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "tier": 2,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "Enchant: Fiery Blaze",
+  "effects": [
+   {
+    "type": 1,
+    "min": 15,
+    "max": 15,
+    "arg": 6297,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+5 Health",
+  "effects": [
+   {
+    "type": 5,
+    "min": 5,
+    "max": 5,
+    "arg": 1,
+    "stat": "HEALTH"
+   }
+  ]
+ },
+ {
+  "id": 89,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+16 Armor",
+  "effects": [
+   {
+    "type": 4,
+    "min": 16,
+    "max": 16,
+    "arg": 0,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 90,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+4 Agility",
+  "effects": [
+   {
+    "type": 5,
+    "min": 4,
+    "max": 4,
+    "arg": 3,
+    "stat": "AGILITY"
+   }
+  ]
+ },
+ {
+  "id": 91,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+5 Agility",
+  "effects": [
+   {
+    "type": 5,
+    "min": 5,
+    "max": 5,
+    "arg": 3,
+    "stat": "AGILITY"
+   }
+  ]
+ },
+ {
+  "id": 92,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+6 Agility",
+  "effects": [
+   {
+    "type": 5,
+    "min": 6,
+    "max": 6,
+    "arg": 3,
+    "stat": "AGILITY"
+   }
+  ]
+ },
+ {
+  "id": 93,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+7 Agility",
+  "effects": [
+   {
+    "type": 5,
+    "min": 7,
+    "max": 7,
+    "arg": 3,
+    "stat": "AGILITY"
+   }
+  ]
+ },
+ {
+  "id": 94,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+4 Intellect",
+  "effects": [
+   {
+    "type": 5,
+    "min": 4,
+    "max": 4,
+    "arg": 5,
+    "stat": "INTELLECT"
+   }
+  ]
+ },
+ {
+  "id": 95,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+5 Intellect",
+  "effects": [
+   {
+    "type": 5,
+    "min": 5,
+    "max": 5,
+    "arg": 5,
+    "stat": "INTELLECT"
+   }
+  ]
+ },
+ {
+  "id": 96,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+6 Intellect",
+  "effects": [
+   {
+    "type": 5,
+    "min": 6,
+    "max": 6,
+    "arg": 5,
+    "stat": "INTELLECT"
+   }
+  ]
+ },
+ {
+  "id": 97,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+7 Intellect",
+  "effects": [
+   {
+    "type": 5,
+    "min": 7,
+    "max": 7,
+    "arg": 5,
+    "stat": "INTELLECT"
+   }
+  ]
+ },
+ {
+  "id": 98,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+4 Spirit",
+  "effects": [
+   {
+    "type": 5,
+    "min": 4,
+    "max": 4,
+    "arg": 6,
+    "stat": "SPIRIT"
+   }
+  ]
+ },
+ {
+  "id": 99,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+5 Spirit",
+  "effects": [
+   {
+    "type": 5,
+    "min": 5,
+    "max": 5,
+    "arg": 6,
+    "stat": "SPIRIT"
+   }
+  ]
+ },
+ {
+  "id": 100,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+6 Spirit",
+  "effects": [
+   {
+    "type": 5,
+    "min": 6,
+    "max": 6,
+    "arg": 6,
+    "stat": "SPIRIT"
+   }
+  ]
+ },
+ {
+  "id": 101,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+7 Spirit",
+  "effects": [
+   {
+    "type": 5,
+    "min": 7,
+    "max": 7,
+    "arg": 6,
+    "stat": "SPIRIT"
+   }
+  ]
+ },
+ {
+  "id": 102,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+4 Stamina",
+  "effects": [
+   {
+    "type": 5,
+    "min": 4,
+    "max": 4,
+    "arg": 7,
+    "stat": "STAMINA"
+   }
+  ]
+ },
+ {
+  "id": 103,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+5 Stamina",
+  "effects": [
+   {
+    "type": 5,
+    "min": 5,
+    "max": 5,
+    "arg": 7,
+    "stat": "STAMINA"
+   }
+  ]
+ },
+ {
+  "id": 104,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+6 Stamina",
+  "effects": [
+   {
+    "type": 5,
+    "min": 6,
+    "max": 6,
+    "arg": 7,
+    "stat": "STAMINA"
+   }
+  ]
+ },
+ {
+  "id": 105,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+7 Stamina",
+  "effects": [
+   {
+    "type": 5,
+    "min": 7,
+    "max": 7,
+    "arg": 7,
+    "stat": "STAMINA"
+   }
+  ]
+ },
+ {
+  "id": 106,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+4 Strength",
+  "effects": [
+   {
+    "type": 5,
+    "min": 4,
+    "max": 4,
+    "arg": 4,
+    "stat": "STRENGTH"
+   }
+  ]
+ },
+ {
+  "id": 107,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+5 Strength",
+  "effects": [
+   {
+    "type": 5,
+    "min": 5,
+    "max": 5,
+    "arg": 4,
+    "stat": "STRENGTH"
+   }
+  ]
+ },
+ {
+  "id": 108,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+6 Strength",
+  "effects": [
+   {
+    "type": 5,
+    "min": 6,
+    "max": 6,
+    "arg": 4,
+    "stat": "STRENGTH"
+   }
+  ]
+ },
+ {
+  "id": 109,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+7 Strength",
+  "effects": [
+   {
+    "type": 5,
+    "min": 7,
+    "max": 7,
+    "arg": 4,
+    "stat": "STRENGTH"
+   }
+  ]
+ },
+ {
+  "id": 115,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+6 Defense Rating",
+  "effects": [
+   {
+    "type": 5,
+    "min": 6,
+    "max": 6,
+    "arg": 12,
+    "stat": "DEFENSE_SKILL_RATING"
+   }
+  ]
+ },
+ {
+  "id": 116,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+7 Defense Rating",
+  "effects": [
+   {
+    "type": 5,
+    "min": 7,
+    "max": 7,
+    "arg": 12,
+    "stat": "DEFENSE_SKILL_RATING"
+   }
+  ]
+ },
+ {
+  "id": 117,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+4 Damage",
+  "effects": [
+   {
+    "type": 2,
+    "min": 4,
+    "max": 4,
+    "arg": 0,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 118,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+5 Damage",
+  "effects": [
+   {
+    "type": 2,
+    "min": 5,
+    "max": 5,
+    "arg": 0,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 119,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+6 Damage",
+  "effects": [
+   {
+    "type": 2,
+    "min": 6,
+    "max": 6,
+    "arg": 0,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 120,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+7 Damage",
+  "effects": [
+   {
+    "type": 2,
+    "min": 7,
+    "max": 7,
+    "arg": 0,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 121,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+20 Armor",
+  "effects": [
+   {
+    "type": 4,
+    "min": 20,
+    "max": 20,
+    "arg": 0,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 122,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+24 Armor",
+  "effects": [
+   {
+    "type": 4,
+    "min": 24,
+    "max": 24,
+    "arg": 0,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 123,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+28 Armor",
+  "effects": [
+   {
+    "type": 4,
+    "min": 28,
+    "max": 28,
+    "arg": 0,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 125,
+  "tier": 1,
+  "class": "WEAPON",
+  "subclass": 7,
+  "desc": "+1 Sword Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7520,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 126,
+  "tier": 2,
+  "class": "WEAPON",
+  "subclass": 7,
+  "desc": "+2 Sword Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7522,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 127,
+  "tier": 3,
+  "class": "WEAPON",
+  "subclass": 7,
+  "desc": "+3 Sword Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7523,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 128,
+  "tier": 3,
+  "class": "WEAPON",
+  "subclass": 7,
+  "desc": "+4 Sword Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7524,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 129,
+  "tier": 4,
+  "class": "WEAPON",
+  "subclass": 7,
+  "desc": "+5 Sword Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7525,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 130,
+  "tier": 4,
+  "class": "WEAPON",
+  "subclass": 7,
+  "desc": "+6 Sword Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7526,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 131,
+  "tier": 5,
+  "class": "WEAPON",
+  "subclass": 7,
+  "desc": "+7 Sword Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7527,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 132,
+  "tier": 1,
+  "class": "WEAPON",
+  "subclass": 8,
+  "desc": "+1 Two-Handed Sword Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7529,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 133,
+  "tier": 2,
+  "class": "WEAPON",
+  "subclass": 8,
+  "desc": "+2 Two-Handed Sword Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7561,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 134,
+  "tier": 3,
+  "class": "WEAPON",
+  "subclass": 8,
+  "desc": "+3 Two-Handed Sword Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7562,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 135,
+  "tier": 3,
+  "class": "WEAPON",
+  "subclass": 8,
+  "desc": "+4 Two-Handed Sword Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7563,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 136,
+  "tier": 4,
+  "class": "WEAPON",
+  "subclass": 8,
+  "desc": "+5 Two-Handed Sword Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7564,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 137,
+  "tier": 4,
+  "class": "WEAPON",
+  "subclass": 8,
+  "desc": "+6 Two-Handed Sword Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7565,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 138,
+  "tier": 5,
+  "class": "WEAPON",
+  "subclass": 8,
+  "desc": "+7 Two-Handed Sword Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7566,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 139,
+  "tier": 1,
+  "class": "WEAPON",
+  "subclass": 4,
+  "desc": "+1 Mace Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7532,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 140,
+  "tier": 2,
+  "class": "WEAPON",
+  "subclass": 4,
+  "desc": "+2 Mace Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7543,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 141,
+  "tier": 3,
+  "class": "WEAPON",
+  "subclass": 4,
+  "desc": "+3 Mace Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7544,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 142,
+  "tier": 3,
+  "class": "WEAPON",
+  "subclass": 4,
+  "desc": "+4 Mace Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7545,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 143,
+  "tier": 4,
+  "class": "WEAPON",
+  "subclass": 4,
+  "desc": "+5 Mace Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7546,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 144,
+  "tier": 4,
+  "class": "WEAPON",
+  "subclass": 4,
+  "desc": "+6 Mace Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7547,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 145,
+  "tier": 5,
+  "class": "WEAPON",
+  "subclass": 4,
+  "desc": "+7 Mace Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7548,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 146,
+  "tier": 1,
+  "class": "WEAPON",
+  "subclass": 5,
+  "desc": "+1 Two-Handed Mace Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7533,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 147,
+  "tier": 2,
+  "class": "WEAPON",
+  "subclass": 5,
+  "desc": "+2 Two-Handed Mace Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7555,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 148,
+  "tier": 3,
+  "class": "WEAPON",
+  "subclass": 5,
+  "desc": "+3 Two-Handed Mace Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7556,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 149,
+  "tier": 3,
+  "class": "WEAPON",
+  "subclass": 5,
+  "desc": "+4 Two-Handed Mace Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7557,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 150,
+  "tier": 4,
+  "class": "WEAPON",
+  "subclass": 5,
+  "desc": "+5 Two-Handed Mace Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7558,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 151,
+  "tier": 4,
+  "class": "WEAPON",
+  "subclass": 5,
+  "desc": "+6 Two-Handed Mace Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7559,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 152,
+  "tier": 5,
+  "class": "WEAPON",
+  "subclass": 5,
+  "desc": "+7 Two-Handed Mace Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7560,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 153,
+  "tier": 1,
+  "class": "WEAPON",
+  "subclass": 0,
+  "desc": "+1 Axe Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7530,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 154,
+  "tier": 2,
+  "class": "WEAPON",
+  "subclass": 0,
+  "desc": "+2 Axe Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7537,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 155,
+  "tier": 3,
+  "class": "WEAPON",
+  "subclass": 0,
+  "desc": "+3 Axe Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7538,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 156,
+  "tier": 3,
+  "class": "WEAPON",
+  "subclass": 0,
+  "desc": "+4 Axe Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7539,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 157,
+  "tier": 4,
+  "class": "WEAPON",
+  "subclass": 0,
+  "desc": "+5 Axe Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7540,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 158,
+  "tier": 4,
+  "class": "WEAPON",
+  "subclass": 0,
+  "desc": "+6 Ase Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7541,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 159,
+  "tier": 5,
+  "class": "WEAPON",
+  "subclass": 0,
+  "desc": "+7 Axe Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7542,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 160,
+  "tier": 1,
+  "class": "WEAPON",
+  "subclass": 1,
+  "desc": "+1 Two-Handed Axe Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7549,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 161,
+  "tier": 2,
+  "class": "WEAPON",
+  "subclass": 1,
+  "desc": "+2 Two-Handed Axe Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7531,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 162,
+  "tier": 3,
+  "class": "WEAPON",
+  "subclass": 1,
+  "desc": "+3 Two-Handed Axe Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7550,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 163,
+  "tier": 3,
+  "class": "WEAPON",
+  "subclass": 1,
+  "desc": "+4 Two-Handed Axe Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7551,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 164,
+  "tier": 4,
+  "class": "WEAPON",
+  "subclass": 1,
+  "desc": "+5 Two-Handed Axe Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7552,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 165,
+  "tier": 4,
+  "class": "WEAPON",
+  "subclass": 1,
+  "desc": "+6 Two-Handed Axe Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7553,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 166,
+  "tier": 5,
+  "class": "WEAPON",
+  "subclass": 1,
+  "desc": "+7 Two-Handed Axe Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7554,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 167,
+  "tier": 1,
+  "class": "WEAPON",
+  "subclass": 15,
+  "desc": "+1 Dagger Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7534,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 168,
+  "tier": 2,
+  "class": "WEAPON",
+  "subclass": 15,
+  "desc": "+2 Dagger Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7573,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 169,
+  "tier": 3,
+  "class": "WEAPON",
+  "subclass": 15,
+  "desc": "+3 Dagger Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7574,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 170,
+  "tier": 3,
+  "class": "WEAPON",
+  "subclass": 15,
+  "desc": "+4 Dagger Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7575,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 171,
+  "tier": 4,
+  "class": "WEAPON",
+  "subclass": 15,
+  "desc": "+5 Dagger Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7576,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 172,
+  "tier": 4,
+  "class": "WEAPON",
+  "subclass": 15,
+  "desc": "+6 Dagger Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7577,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 173,
+  "tier": 5,
+  "class": "WEAPON",
+  "subclass": 15,
+  "desc": "+7 Dagger Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7578,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 174,
+  "tier": 1,
+  "class": "WEAPON",
+  "subclass": 3,
+  "desc": "+1 Gun Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7536,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 175,
+  "tier": 2,
+  "class": "WEAPON",
+  "subclass": 3,
+  "desc": "+2 Gun Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7579,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 176,
+  "tier": 3,
+  "class": "WEAPON",
+  "subclass": 3,
+  "desc": "+3 Gun Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7580,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 177,
+  "tier": 3,
+  "class": "WEAPON",
+  "subclass": 3,
+  "desc": "+4 Gun Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7581,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 178,
+  "tier": 4,
+  "class": "WEAPON",
+  "subclass": 3,
+  "desc": "+5 Gun Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7582,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 179,
+  "tier": 4,
+  "class": "WEAPON",
+  "subclass": 3,
+  "desc": "+6 Gun Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7583,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 180,
+  "tier": 5,
+  "class": "WEAPON",
+  "subclass": 3,
+  "desc": "+7 Gun Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7584,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 181,
+  "tier": 1,
+  "class": "WEAPON",
+  "subclass": 2,
+  "desc": "+1 Bow Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7535,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 182,
+  "tier": 2,
+  "class": "WEAPON",
+  "subclass": 2,
+  "desc": "+2 Bow Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7567,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 183,
+  "tier": 3,
+  "class": "WEAPON",
+  "subclass": 2,
+  "desc": "+3 Bow Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7568,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 184,
+  "tier": 3,
+  "class": "WEAPON",
+  "subclass": 2,
+  "desc": "+4 Bow Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7569,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 185,
+  "tier": 4,
+  "class": "WEAPON",
+  "subclass": 2,
+  "desc": "+5 Bow Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7570,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 186,
+  "tier": 4,
+  "class": "WEAPON",
+  "subclass": 2,
+  "desc": "+6 Bow Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7571,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 187,
+  "tier": 5,
+  "class": "WEAPON",
+  "subclass": 2,
+  "desc": "+7 Bow Skill",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7572,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 188,
+  "tier": 1,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "+2 Beast Slaying",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7590,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 189,
+  "tier": 1,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "+4 Beast Slaying",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7591,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 190,
+  "tier": 2,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "+6 Beast Slaying",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7592,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 191,
+  "tier": 2,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "+8 Beast Slaying",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7593,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 192,
+  "tier": 2,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "+10 Beast Slaying",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7594,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 193,
+  "tier": 2,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "+12 Beast Slaying",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7595,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 194,
+  "tier": 3,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "+14 Beast Slaying",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7596,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 195,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+14 Critical Strike Rating",
+  "effects": [
+   {
+    "type": 5,
+    "min": 14,
+    "max": 14,
+    "arg": 32,
+    "stat": "CRIT_RATING"
+   }
+  ]
+ },
+ {
+  "id": 196,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+28 Critical Strike Rating",
+  "effects": [
+   {
+    "type": 5,
+    "min": 28,
+    "max": 28,
+    "arg": 32,
+    "stat": "CRIT_RATING"
+   }
+  ]
+ },
+ {
+  "id": 197,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+42 Critical Strike Rating",
+  "effects": [
+   {
+    "type": 5,
+    "min": 42,
+    "max": 42,
+    "arg": 32,
+    "stat": "CRIT_RATING"
+   }
+  ]
+ },
+ {
+  "id": 198,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+56 Critical Strike Rating",
+  "effects": [
+   {
+    "type": 5,
+    "min": 56,
+    "max": 56,
+    "arg": 32,
+    "stat": "CRIT_RATING"
+   }
+  ]
+ },
+ {
+  "id": 199,
+  "tier": 2,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "10% On Get Hit: Shadow Bolt (10 Damage)",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7601,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 200,
+  "tier": 2,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "10% On Get Hit: Shadow Bolt (20 Damage)",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7614,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 201,
+  "tier": 3,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "10% On Get Hit: Shadow Bolt (30 Damage)",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7615,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 202,
+  "tier": 3,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "10% On Get Hit: Shadow Bolt (40 Damage)",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7616,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 203,
+  "tier": 4,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "10% On Get Hit: Shadow Bolt (50 Damage)",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7617,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 204,
+  "tier": 5,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "10% On Get Hit: Shadow Bolt (60 Damage)",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7618,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 205,
+  "tier": 5,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "10% On Get Hit: Shadow Bolt (70 Damage)",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7619,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 208,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+4 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 4,
+    "max": 4,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 209,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+5 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 5,
+    "max": 5,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 210,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+6 Spell Power",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9396,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 211,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+7 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 7,
+    "max": 7,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 212,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+8 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 8,
+    "max": 8,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 215,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+4 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7685,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 216,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+6 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7686,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 217,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+7 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7687,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 218,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+9 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7688,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 219,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+10 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7689,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 222,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+4 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7692,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 223,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+6 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7693,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 224,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+7 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7694,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 225,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+9 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7695,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 226,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+10 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7696,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 229,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+4 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7699,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 230,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+6 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7700,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 231,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+7 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7701,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 232,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+9 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7702,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 233,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+10 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7703,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 236,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+4 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7706,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 237,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+6 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7707,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 238,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+7 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7708,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 239,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+9 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7710,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 240,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+10 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7709,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 242,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+15 Health",
+  "effects": [
+   {
+    "type": 5,
+    "min": 15,
+    "max": 15,
+    "arg": 1,
+    "stat": "HEALTH"
+   }
+  ]
+ },
+ {
+  "id": 249,
+  "tier": 1,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "+2 Beastslaying",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7784,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 253,
+  "tier": 2,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "Absorption (50)",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7849,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 266,
+  "tier": 5,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "Fishing Lure (+100 Fishing Skill)",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 8085,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 284,
+  "tier": 5,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "Windfury 2",
+  "effects": [
+   {
+    "type": 3,
+    "min": 20,
+    "max": 20,
+    "arg": 33757,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 287,
+  "tier": 1,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "+4 Weapon Fire Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7721,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 288,
+  "tier": 2,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "+6 Weapon Fire Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7722,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 289,
+  "tier": 3,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "+8 Weapon Fire Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7723,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 290,
+  "tier": 4,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "+10 Weapon Fire Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7724,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 291,
+  "tier": 4,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "+12 Weapon Fire Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7725,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 292,
+  "tier": 5,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "+14 Weapon Fire Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7726,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 303,
+  "tier": 3,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "Orb of Fire",
+  "effects": []
+ },
+ {
+  "id": 346,
+  "tier": 3,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+36 Armor",
+  "effects": [
+   {
+    "type": 4,
+    "min": 36,
+    "max": 36,
+    "arg": 0,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 347,
+  "tier": 3,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+44 Armor",
+  "effects": [
+   {
+    "type": 4,
+    "min": 44,
+    "max": 44,
+    "arg": 0,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 348,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+48 Armor",
+  "effects": [
+   {
+    "type": 4,
+    "min": 48,
+    "max": 48,
+    "arg": 0,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 349,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+9 Agility",
+  "effects": [
+   {
+    "type": 5,
+    "min": 9,
+    "max": 9,
+    "arg": 3,
+    "stat": "AGILITY"
+   }
+  ]
+ },
+ {
+  "id": 350,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+8 Intellect",
+  "effects": [
+   {
+    "type": 5,
+    "min": 8,
+    "max": 8,
+    "arg": 5,
+    "stat": "INTELLECT"
+   }
+  ]
+ },
+ {
+  "id": 351,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+8 Spirit",
+  "effects": [
+   {
+    "type": 5,
+    "min": 8,
+    "max": 8,
+    "arg": 6,
+    "stat": "SPIRIT"
+   }
+  ]
+ },
+ {
+  "id": 353,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+8 Stamina",
+  "effects": [
+   {
+    "type": 5,
+    "min": 8,
+    "max": 8,
+    "arg": 7,
+    "stat": "STAMINA"
+   }
+  ]
+ },
+ {
+  "id": 354,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+9 Intellect",
+  "effects": [
+   {
+    "type": 5,
+    "min": 9,
+    "max": 9,
+    "arg": 5,
+    "stat": "INTELLECT"
+   }
+  ]
+ },
+ {
+  "id": 355,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+9 Spirit",
+  "effects": [
+   {
+    "type": 5,
+    "min": 9,
+    "max": 9,
+    "arg": 6,
+    "stat": "SPIRIT"
+   }
+  ]
+ },
+ {
+  "id": 356,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+9 Stamina",
+  "effects": [
+   {
+    "type": 5,
+    "min": 9,
+    "max": 9,
+    "arg": 7,
+    "stat": "STAMINA"
+   }
+  ]
+ },
+ {
+  "id": 357,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+9 Strength",
+  "effects": [
+   {
+    "type": 5,
+    "min": 9,
+    "max": 9,
+    "arg": 4,
+    "stat": "STRENGTH"
+   }
+  ]
+ },
+ {
+  "id": 358,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+10 Agility",
+  "effects": [
+   {
+    "type": 5,
+    "min": 10,
+    "max": 10,
+    "arg": 3,
+    "stat": "AGILITY"
+   }
+  ]
+ },
+ {
+  "id": 359,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+10 Intellect",
+  "effects": [
+   {
+    "type": 5,
+    "min": 10,
+    "max": 10,
+    "arg": 5,
+    "stat": "INTELLECT"
+   }
+  ]
+ },
+ {
+  "id": 360,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+10 Spirit",
+  "effects": [
+   {
+    "type": 5,
+    "min": 10,
+    "max": 10,
+    "arg": 6,
+    "stat": "SPIRIT"
+   }
+  ]
+ },
+ {
+  "id": 361,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+10 Stamina",
+  "effects": [
+   {
+    "type": 5,
+    "min": 10,
+    "max": 10,
+    "arg": 7,
+    "stat": "STAMINA"
+   }
+  ]
+ },
+ {
+  "id": 362,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+10 Strength",
+  "effects": [
+   {
+    "type": 5,
+    "min": 10,
+    "max": 10,
+    "arg": 4,
+    "stat": "STRENGTH"
+   }
+  ]
+ },
+ {
+  "id": 363,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+11 Agility",
+  "effects": [
+   {
+    "type": 5,
+    "min": 11,
+    "max": 11,
+    "arg": 3,
+    "stat": "AGILITY"
+   }
+  ]
+ },
+ {
+  "id": 364,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+11 Intellect",
+  "effects": [
+   {
+    "type": 5,
+    "min": 11,
+    "max": 11,
+    "arg": 5,
+    "stat": "INTELLECT"
+   }
+  ]
+ },
+ {
+  "id": 365,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+11 Spirit",
+  "effects": [
+   {
+    "type": 5,
+    "min": 11,
+    "max": 11,
+    "arg": 6,
+    "stat": "SPIRIT"
+   }
+  ]
+ },
+ {
+  "id": 366,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+11 Stamina",
+  "effects": [
+   {
+    "type": 5,
+    "min": 11,
+    "max": 11,
+    "arg": 7,
+    "stat": "STAMINA"
+   }
+  ]
+ },
+ {
+  "id": 367,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+11 Strength",
+  "effects": [
+   {
+    "type": 5,
+    "min": 11,
+    "max": 11,
+    "arg": 4,
+    "stat": "STRENGTH"
+   }
+  ]
+ },
+ {
+  "id": 368,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+12 Agility",
+  "effects": [
+   {
+    "type": 5,
+    "min": 12,
+    "max": 12,
+    "arg": 3,
+    "stat": "AGILITY"
+   }
+  ]
+ },
+ {
+  "id": 369,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+12 Intellect",
+  "effects": [
+   {
+    "type": 5,
+    "min": 12,
+    "max": 12,
+    "arg": 5,
+    "stat": "INTELLECT"
+   }
+  ]
+ },
+ {
+  "id": 370,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+12 Spirit",
+  "effects": [
+   {
+    "type": 5,
+    "min": 12,
+    "max": 12,
+    "arg": 6,
+    "stat": "SPIRIT"
+   }
+  ]
+ },
+ {
+  "id": 371,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+12 Stamina",
+  "effects": [
+   {
+    "type": 5,
+    "min": 12,
+    "max": 12,
+    "arg": 7,
+    "stat": "STAMINA"
+   }
+  ]
+ },
+ {
+  "id": 372,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+12 Strength",
+  "effects": [
+   {
+    "type": 5,
+    "min": 12,
+    "max": 12,
+    "arg": 4,
+    "stat": "STRENGTH"
+   }
+  ]
+ },
+ {
+  "id": 383,
+  "tier": 3,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+52 Armor",
+  "effects": [
+   {
+    "type": 4,
+    "min": 52,
+    "max": 52,
+    "arg": 0,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 384,
+  "tier": 3,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+56 Armor",
+  "effects": [
+   {
+    "type": 4,
+    "min": 56,
+    "max": 56,
+    "arg": 0,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 385,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+60 Armor",
+  "effects": [
+   {
+    "type": 4,
+    "min": 60,
+    "max": 60,
+    "arg": 0,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 403,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+13 Agility",
+  "effects": [
+   {
+    "type": 5,
+    "min": 13,
+    "max": 13,
+    "arg": 3,
+    "stat": "AGILITY"
+   }
+  ]
+ },
+ {
+  "id": 404,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+14 Agility",
+  "effects": [
+   {
+    "type": 5,
+    "min": 14,
+    "max": 14,
+    "arg": 3,
+    "stat": "AGILITY"
+   }
+  ]
+ },
+ {
+  "id": 405,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+13 Intellect",
+  "effects": [
+   {
+    "type": 5,
+    "min": 13,
+    "max": 13,
+    "arg": 5,
+    "stat": "INTELLECT"
+   }
+  ]
+ },
+ {
+  "id": 406,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+14 Intellect",
+  "effects": [
+   {
+    "type": 5,
+    "min": 14,
+    "max": 14,
+    "arg": 5,
+    "stat": "INTELLECT"
+   }
+  ]
+ },
+ {
+  "id": 407,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+13 Spirit",
+  "effects": [
+   {
+    "type": 5,
+    "min": 13,
+    "max": 13,
+    "arg": 6,
+    "stat": "SPIRIT"
+   }
+  ]
+ },
+ {
+  "id": 408,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+14 Spirit",
+  "effects": [
+   {
+    "type": 5,
+    "min": 14,
+    "max": 14,
+    "arg": 6,
+    "stat": "SPIRIT"
+   }
+  ]
+ },
+ {
+  "id": 409,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+13 Stamina",
+  "effects": [
+   {
+    "type": 5,
+    "min": 13,
+    "max": 13,
+    "arg": 7,
+    "stat": "STAMINA"
+   }
+  ]
+ },
+ {
+  "id": 410,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+13 Strength",
+  "effects": [
+   {
+    "type": 5,
+    "min": 13,
+    "max": 13,
+    "arg": 4,
+    "stat": "STRENGTH"
+   }
+  ]
+ },
+ {
+  "id": 411,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+14 Stamina",
+  "effects": [
+   {
+    "type": 5,
+    "min": 14,
+    "max": 14,
+    "arg": 7,
+    "stat": "STAMINA"
+   }
+  ]
+ },
+ {
+  "id": 412,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+14 Strength",
+  "effects": [
+   {
+    "type": 5,
+    "min": 14,
+    "max": 14,
+    "arg": 4,
+    "stat": "STRENGTH"
+   }
+  ]
+ },
+ {
+  "id": 431,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+11 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 11,
+    "max": 11,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 432,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+12 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 12,
+    "max": 12,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 435,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+14 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9401,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 439,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+14 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9404,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 803,
+  "tier": 3,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "Fiery Weapon",
+  "effects": [
+   {
+    "type": 1,
+    "min": 0,
+    "max": 0,
+    "arg": 13897,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 850,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+35 Health",
+  "effects": [
+   {
+    "type": 5,
+    "min": 35,
+    "max": 35,
+    "arg": 1,
+    "stat": "HEALTH"
+   }
+  ]
+ },
+ {
+  "id": 853,
+  "tier": 2,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "+6 Beastslaying",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 13650,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 854,
+  "tier": 2,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "+6 Elemental Slayer",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 13651,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 855,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+5 Fire Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 5,
+    "max": 5,
+    "arg": 2,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 857,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+50 Mana",
+  "effects": [
+   {
+    "type": 5,
+    "min": 50,
+    "max": 50,
+    "arg": 0,
+    "stat": "MANA"
+   }
+  ]
+ },
+ {
+  "id": 866,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+2 All Stats",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 13625,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 883,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+15 Agility",
+  "effects": [
+   {
+    "type": 5,
+    "min": 15,
+    "max": 15,
+    "arg": 3,
+    "stat": "AGILITY"
+   }
+  ]
+ },
+ {
+  "id": 903,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+3 All Resistances",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 13796,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 910,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "Increased Stealth",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 13840,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 912,
+  "tier": 3,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "Demonslaying",
+  "effects": [
+   {
+    "type": 1,
+    "min": 0,
+    "max": 0,
+    "arg": 13907,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 913,
+  "tier": 3,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "+65 Mana",
+  "effects": [
+   {
+    "type": 5,
+    "min": 65,
+    "max": 65,
+    "arg": 0,
+    "stat": "MANA"
+   }
+  ]
+ },
+ {
+  "id": 928,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+3 All Stats",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 13824,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1023,
+  "tier": 4,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "Feedback 1",
+  "effects": [
+   {
+    "type": 1,
+    "min": 0,
+    "max": 0,
+    "arg": 6347,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1043,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+16 Strength",
+  "effects": [
+   {
+    "type": 5,
+    "min": 16,
+    "max": 16,
+    "arg": 4,
+    "stat": "STRENGTH"
+   }
+  ]
+ },
+ {
+  "id": 1044,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+17 Strength",
+  "effects": [
+   {
+    "type": 5,
+    "min": 17,
+    "max": 17,
+    "arg": 4,
+    "stat": "STRENGTH"
+   }
+  ]
+ },
+ {
+  "id": 1045,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+18 Strength",
+  "effects": [
+   {
+    "type": 5,
+    "min": 18,
+    "max": 18,
+    "arg": 4,
+    "stat": "STRENGTH"
+   }
+  ]
+ },
+ {
+  "id": 1046,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+19 Strength",
+  "effects": [
+   {
+    "type": 5,
+    "min": 19,
+    "max": 19,
+    "arg": 4,
+    "stat": "STRENGTH"
+   }
+  ]
+ },
+ {
+  "id": 1047,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+20 Strength",
+  "effects": [
+   {
+    "type": 5,
+    "min": 20,
+    "max": 20,
+    "arg": 4,
+    "stat": "STRENGTH"
+   }
+  ]
+ },
+ {
+  "id": 1048,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+21 Strength",
+  "effects": [
+   {
+    "type": 5,
+    "min": 21,
+    "max": 21,
+    "arg": 4,
+    "stat": "STRENGTH"
+   }
+  ]
+ },
+ {
+  "id": 1049,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+22 Strength",
+  "effects": [
+   {
+    "type": 5,
+    "min": 22,
+    "max": 22,
+    "arg": 4,
+    "stat": "STRENGTH"
+   }
+  ]
+ },
+ {
+  "id": 1050,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+23 Strength",
+  "effects": [
+   {
+    "type": 5,
+    "min": 23,
+    "max": 23,
+    "arg": 4,
+    "stat": "STRENGTH"
+   }
+  ]
+ },
+ {
+  "id": 1051,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+24 Strength",
+  "effects": [
+   {
+    "type": 5,
+    "min": 24,
+    "max": 24,
+    "arg": 4,
+    "stat": "STRENGTH"
+   }
+  ]
+ },
+ {
+  "id": 1052,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+25 Strength",
+  "effects": [
+   {
+    "type": 5,
+    "min": 25,
+    "max": 25,
+    "arg": 4,
+    "stat": "STRENGTH"
+   }
+  ]
+ },
+ {
+  "id": 1053,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+26 Strength",
+  "effects": [
+   {
+    "type": 5,
+    "min": 26,
+    "max": 26,
+    "arg": 4,
+    "stat": "STRENGTH"
+   }
+  ]
+ },
+ {
+  "id": 1054,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+27 Strength",
+  "effects": [
+   {
+    "type": 5,
+    "min": 27,
+    "max": 27,
+    "arg": 4,
+    "stat": "STRENGTH"
+   }
+  ]
+ },
+ {
+  "id": 1068,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+15 Stamina",
+  "effects": [
+   {
+    "type": 5,
+    "min": 15,
+    "max": 15,
+    "arg": 7,
+    "stat": "STAMINA"
+   }
+  ]
+ },
+ {
+  "id": 1069,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+16 Stamina",
+  "effects": [
+   {
+    "type": 5,
+    "min": 16,
+    "max": 16,
+    "arg": 7,
+    "stat": "STAMINA"
+   }
+  ]
+ },
+ {
+  "id": 1070,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+17 Stamina",
+  "effects": [
+   {
+    "type": 5,
+    "min": 17,
+    "max": 17,
+    "arg": 7,
+    "stat": "STAMINA"
+   }
+  ]
+ },
+ {
+  "id": 1071,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+18 Stamina",
+  "effects": [
+   {
+    "type": 5,
+    "min": 18,
+    "max": 18,
+    "arg": 7,
+    "stat": "STAMINA"
+   }
+  ]
+ },
+ {
+  "id": 1072,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+19 Stamina",
+  "effects": [
+   {
+    "type": 5,
+    "min": 19,
+    "max": 19,
+    "arg": 7,
+    "stat": "STAMINA"
+   }
+  ]
+ },
+ {
+  "id": 1073,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+20 Stamina",
+  "effects": [
+   {
+    "type": 5,
+    "min": 20,
+    "max": 20,
+    "arg": 7,
+    "stat": "STAMINA"
+   }
+  ]
+ },
+ {
+  "id": 1074,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+21 Stamina",
+  "effects": [
+   {
+    "type": 5,
+    "min": 21,
+    "max": 21,
+    "arg": 7,
+    "stat": "STAMINA"
+   }
+  ]
+ },
+ {
+  "id": 1075,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+22 Stamina",
+  "effects": [
+   {
+    "type": 5,
+    "min": 22,
+    "max": 22,
+    "arg": 7,
+    "stat": "STAMINA"
+   }
+  ]
+ },
+ {
+  "id": 1076,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+23 Stamina",
+  "effects": [
+   {
+    "type": 5,
+    "min": 23,
+    "max": 23,
+    "arg": 7,
+    "stat": "STAMINA"
+   }
+  ]
+ },
+ {
+  "id": 1077,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+24 Stamina",
+  "effects": [
+   {
+    "type": 5,
+    "min": 24,
+    "max": 24,
+    "arg": 7,
+    "stat": "STAMINA"
+   }
+  ]
+ },
+ {
+  "id": 1078,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+25 Stamina",
+  "effects": [
+   {
+    "type": 5,
+    "min": 25,
+    "max": 25,
+    "arg": 7,
+    "stat": "STAMINA"
+   }
+  ]
+ },
+ {
+  "id": 1094,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+17 Agility",
+  "effects": [
+   {
+    "type": 5,
+    "min": 17,
+    "max": 17,
+    "arg": 3,
+    "stat": "AGILITY"
+   }
+  ]
+ },
+ {
+  "id": 1095,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+18 Agility",
+  "effects": [
+   {
+    "type": 5,
+    "min": 18,
+    "max": 18,
+    "arg": 3,
+    "stat": "AGILITY"
+   }
+  ]
+ },
+ {
+  "id": 1096,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+19 Agility",
+  "effects": [
+   {
+    "type": 5,
+    "min": 19,
+    "max": 19,
+    "arg": 3,
+    "stat": "AGILITY"
+   }
+  ]
+ },
+ {
+  "id": 1097,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+20 Agility",
+  "effects": [
+   {
+    "type": 5,
+    "min": 20,
+    "max": 20,
+    "arg": 3,
+    "stat": "AGILITY"
+   }
+  ]
+ },
+ {
+  "id": 1098,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+21 Agility",
+  "effects": [
+   {
+    "type": 5,
+    "min": 21,
+    "max": 21,
+    "arg": 3,
+    "stat": "AGILITY"
+   }
+  ]
+ },
+ {
+  "id": 1099,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+22 Agility",
+  "effects": [
+   {
+    "type": 5,
+    "min": 22,
+    "max": 22,
+    "arg": 3,
+    "stat": "AGILITY"
+   }
+  ]
+ },
+ {
+  "id": 1100,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+23 Agility",
+  "effects": [
+   {
+    "type": 5,
+    "min": 23,
+    "max": 23,
+    "arg": 3,
+    "stat": "AGILITY"
+   }
+  ]
+ },
+ {
+  "id": 1101,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+24 Agility",
+  "effects": [
+   {
+    "type": 5,
+    "min": 24,
+    "max": 24,
+    "arg": 3,
+    "stat": "AGILITY"
+   }
+  ]
+ },
+ {
+  "id": 1102,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+25 Agility",
+  "effects": [
+   {
+    "type": 5,
+    "min": 25,
+    "max": 25,
+    "arg": 3,
+    "stat": "AGILITY"
+   }
+  ]
+ },
+ {
+  "id": 1103,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+26 Agility",
+  "effects": [
+   {
+    "type": 5,
+    "min": 26,
+    "max": 26,
+    "arg": 3,
+    "stat": "AGILITY"
+   }
+  ]
+ },
+ {
+  "id": 1104,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+27 Agility",
+  "effects": [
+   {
+    "type": 5,
+    "min": 27,
+    "max": 27,
+    "arg": 3,
+    "stat": "AGILITY"
+   }
+  ]
+ },
+ {
+  "id": 1105,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+28 Agility",
+  "effects": [
+   {
+    "type": 5,
+    "min": 28,
+    "max": 28,
+    "arg": 3,
+    "stat": "AGILITY"
+   }
+  ]
+ },
+ {
+  "id": 1106,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+29 Agility",
+  "effects": [
+   {
+    "type": 5,
+    "min": 29,
+    "max": 29,
+    "arg": 3,
+    "stat": "AGILITY"
+   }
+  ]
+ },
+ {
+  "id": 1118,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+15 Intellect",
+  "effects": [
+   {
+    "type": 5,
+    "min": 15,
+    "max": 15,
+    "arg": 5,
+    "stat": "INTELLECT"
+   }
+  ]
+ },
+ {
+  "id": 1119,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+16 Intellect",
+  "effects": [
+   {
+    "type": 5,
+    "min": 16,
+    "max": 16,
+    "arg": 5,
+    "stat": "INTELLECT"
+   }
+  ]
+ },
+ {
+  "id": 1120,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+17 Intellect",
+  "effects": [
+   {
+    "type": 5,
+    "min": 17,
+    "max": 17,
+    "arg": 5,
+    "stat": "INTELLECT"
+   }
+  ]
+ },
+ {
+  "id": 1121,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+18 Intellect",
+  "effects": [
+   {
+    "type": 5,
+    "min": 18,
+    "max": 18,
+    "arg": 5,
+    "stat": "INTELLECT"
+   }
+  ]
+ },
+ {
+  "id": 1122,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+19 Intellect",
+  "effects": [
+   {
+    "type": 5,
+    "min": 19,
+    "max": 19,
+    "arg": 5,
+    "stat": "INTELLECT"
+   }
+  ]
+ },
+ {
+  "id": 1123,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+20 Intellect",
+  "effects": [
+   {
+    "type": 5,
+    "min": 20,
+    "max": 20,
+    "arg": 5,
+    "stat": "INTELLECT"
+   }
+  ]
+ },
+ {
+  "id": 1124,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+21 Intellect",
+  "effects": [
+   {
+    "type": 5,
+    "min": 21,
+    "max": 21,
+    "arg": 5,
+    "stat": "INTELLECT"
+   }
+  ]
+ },
+ {
+  "id": 1125,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+22 Intellect",
+  "effects": [
+   {
+    "type": 5,
+    "min": 22,
+    "max": 22,
+    "arg": 5,
+    "stat": "INTELLECT"
+   }
+  ]
+ },
+ {
+  "id": 1126,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+23 Intellect",
+  "effects": [
+   {
+    "type": 5,
+    "min": 23,
+    "max": 23,
+    "arg": 5,
+    "stat": "INTELLECT"
+   }
+  ]
+ },
+ {
+  "id": 1127,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+24 Intellect",
+  "effects": [
+   {
+    "type": 5,
+    "min": 24,
+    "max": 24,
+    "arg": 5,
+    "stat": "INTELLECT"
+   }
+  ]
+ },
+ {
+  "id": 1128,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+25 Intellect",
+  "effects": [
+   {
+    "type": 5,
+    "min": 25,
+    "max": 25,
+    "arg": 5,
+    "stat": "INTELLECT"
+   }
+  ]
+ },
+ {
+  "id": 1129,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+26 Intellect",
+  "effects": [
+   {
+    "type": 5,
+    "min": 26,
+    "max": 26,
+    "arg": 5,
+    "stat": "INTELLECT"
+   }
+  ]
+ },
+ {
+  "id": 1130,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+27 Intellect",
+  "effects": [
+   {
+    "type": 5,
+    "min": 27,
+    "max": 27,
+    "arg": 5,
+    "stat": "INTELLECT"
+   }
+  ]
+ },
+ {
+  "id": 1131,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+28 Intellect",
+  "effects": [
+   {
+    "type": 5,
+    "min": 28,
+    "max": 28,
+    "arg": 5,
+    "stat": "INTELLECT"
+   }
+  ]
+ },
+ {
+  "id": 1132,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+29 Intellect",
+  "effects": [
+   {
+    "type": 5,
+    "min": 29,
+    "max": 29,
+    "arg": 5,
+    "stat": "INTELLECT"
+   }
+  ]
+ },
+ {
+  "id": 1144,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+15 Spirit",
+  "effects": [
+   {
+    "type": 5,
+    "min": 15,
+    "max": 15,
+    "arg": 6,
+    "stat": "SPIRIT"
+   }
+  ]
+ },
+ {
+  "id": 1145,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+16 Spirit",
+  "effects": [
+   {
+    "type": 5,
+    "min": 16,
+    "max": 16,
+    "arg": 6,
+    "stat": "SPIRIT"
+   }
+  ]
+ },
+ {
+  "id": 1146,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+17 Spirit",
+  "effects": [
+   {
+    "type": 5,
+    "min": 17,
+    "max": 17,
+    "arg": 6,
+    "stat": "SPIRIT"
+   }
+  ]
+ },
+ {
+  "id": 1147,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+18 Spirit",
+  "effects": [
+   {
+    "type": 5,
+    "min": 18,
+    "max": 18,
+    "arg": 6,
+    "stat": "SPIRIT"
+   }
+  ]
+ },
+ {
+  "id": 1148,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+19 Spirit",
+  "effects": [
+   {
+    "type": 5,
+    "min": 19,
+    "max": 19,
+    "arg": 6,
+    "stat": "SPIRIT"
+   }
+  ]
+ },
+ {
+  "id": 1149,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+20 Spirit",
+  "effects": [
+   {
+    "type": 5,
+    "min": 20,
+    "max": 20,
+    "arg": 6,
+    "stat": "SPIRIT"
+   }
+  ]
+ },
+ {
+  "id": 1150,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+21 Spirit",
+  "effects": [
+   {
+    "type": 5,
+    "min": 21,
+    "max": 21,
+    "arg": 6,
+    "stat": "SPIRIT"
+   }
+  ]
+ },
+ {
+  "id": 1152,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+23 Spirit",
+  "effects": [
+   {
+    "type": 5,
+    "min": 23,
+    "max": 23,
+    "arg": 6,
+    "stat": "SPIRIT"
+   }
+  ]
+ },
+ {
+  "id": 1151,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+22 Spirit",
+  "effects": [
+   {
+    "type": 5,
+    "min": 22,
+    "max": 22,
+    "arg": 6,
+    "stat": "SPIRIT"
+   }
+  ]
+ },
+ {
+  "id": 1153,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+24 Spirit",
+  "effects": [
+   {
+    "type": 5,
+    "min": 24,
+    "max": 24,
+    "arg": 6,
+    "stat": "SPIRIT"
+   }
+  ]
+ },
+ {
+  "id": 1154,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+25 Spirit",
+  "effects": [
+   {
+    "type": 5,
+    "min": 25,
+    "max": 25,
+    "arg": 6,
+    "stat": "SPIRIT"
+   }
+  ]
+ },
+ {
+  "id": 1155,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+26 Spirit",
+  "effects": [
+   {
+    "type": 5,
+    "min": 26,
+    "max": 26,
+    "arg": 6,
+    "stat": "SPIRIT"
+   }
+  ]
+ },
+ {
+  "id": 1156,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+27 Spirit",
+  "effects": [
+   {
+    "type": 5,
+    "min": 27,
+    "max": 27,
+    "arg": 6,
+    "stat": "SPIRIT"
+   }
+  ]
+ },
+ {
+  "id": 1157,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+28 Spirit",
+  "effects": [
+   {
+    "type": 5,
+    "min": 28,
+    "max": 28,
+    "arg": 6,
+    "stat": "SPIRIT"
+   }
+  ]
+ },
+ {
+  "id": 1247,
+  "tier": 2,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+5 Arcane Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 5,
+    "max": 5,
+    "arg": 6,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1248,
+  "tier": 2,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+6 Arcane Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 6,
+    "max": 6,
+    "arg": 6,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1249,
+  "tier": 2,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+7 Arcane Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 7,
+    "max": 7,
+    "arg": 6,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1250,
+  "tier": 2,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+8 Arcane Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 8,
+    "max": 8,
+    "arg": 6,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1251,
+  "tier": 2,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+9 Arcane Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 9,
+    "max": 9,
+    "arg": 6,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1252,
+  "tier": 3,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+10 Arcane Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 10,
+    "max": 10,
+    "arg": 6,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1254,
+  "tier": 3,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+12 Arcane Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 12,
+    "max": 12,
+    "arg": 6,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1253,
+  "tier": 3,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+11 Arcane Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 11,
+    "max": 11,
+    "arg": 6,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1255,
+  "tier": 3,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+13 Arcane Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 13,
+    "max": 13,
+    "arg": 6,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1256,
+  "tier": 3,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+14 Arcane Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 14,
+    "max": 14,
+    "arg": 6,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1258,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+16 Arcane Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 16,
+    "max": 16,
+    "arg": 6,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1259,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+17 Arcane Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 17,
+    "max": 17,
+    "arg": 6,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1260,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+18 Arcane Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 18,
+    "max": 18,
+    "arg": 6,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1261,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+19 Arcane Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 19,
+    "max": 19,
+    "arg": 6,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1262,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+20 Arcane Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 20,
+    "max": 20,
+    "arg": 6,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1263,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+21 Arcane Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 21,
+    "max": 21,
+    "arg": 6,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1264,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+22 Arcane Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 22,
+    "max": 22,
+    "arg": 6,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1265,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+23 Arcane Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 23,
+    "max": 23,
+    "arg": 6,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1266,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+24 Arcane Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 24,
+    "max": 24,
+    "arg": 6,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1267,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+25 Arcane Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 25,
+    "max": 25,
+    "arg": 6,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1293,
+  "tier": 2,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+5 Frost Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 5,
+    "max": 5,
+    "arg": 4,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1294,
+  "tier": 2,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+6 Frost Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 6,
+    "max": 6,
+    "arg": 4,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1295,
+  "tier": 2,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+7 Frost Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 7,
+    "max": 7,
+    "arg": 4,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1296,
+  "tier": 2,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+8 Frost Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 8,
+    "max": 8,
+    "arg": 4,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1297,
+  "tier": 2,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+9 Frost Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 9,
+    "max": 9,
+    "arg": 4,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1298,
+  "tier": 3,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+10 Frost Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 10,
+    "max": 10,
+    "arg": 4,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1299,
+  "tier": 3,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+11 Frost Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 11,
+    "max": 11,
+    "arg": 4,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1300,
+  "tier": 3,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+12 Frost Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 12,
+    "max": 12,
+    "arg": 4,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1301,
+  "tier": 3,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+13 Frost Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 13,
+    "max": 13,
+    "arg": 4,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1302,
+  "tier": 3,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+14 Frost Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 14,
+    "max": 14,
+    "arg": 4,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1303,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+15 Frost Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 15,
+    "max": 15,
+    "arg": 4,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1304,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+16 Frost Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 16,
+    "max": 16,
+    "arg": 4,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1305,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+17 Frost Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 17,
+    "max": 17,
+    "arg": 4,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1306,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+18 Frost Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 18,
+    "max": 18,
+    "arg": 4,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1307,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+19 Frost Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 19,
+    "max": 19,
+    "arg": 4,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1308,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+20 Frost Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 20,
+    "max": 20,
+    "arg": 4,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1309,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+21 Frost Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 21,
+    "max": 21,
+    "arg": 4,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1310,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+22 Frost Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 22,
+    "max": 22,
+    "arg": 4,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1311,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+23 Frost Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 23,
+    "max": 23,
+    "arg": 4,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1312,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+24 Frost Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 24,
+    "max": 24,
+    "arg": 4,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1313,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+25 Frost Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 25,
+    "max": 25,
+    "arg": 4,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1339,
+  "tier": 2,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+5 Fire Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 5,
+    "max": 5,
+    "arg": 2,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1340,
+  "tier": 2,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+6 Fire Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 6,
+    "max": 6,
+    "arg": 2,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1341,
+  "tier": 2,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+7 Fire Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 7,
+    "max": 7,
+    "arg": 2,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1342,
+  "tier": 2,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+8 Fire Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 8,
+    "max": 8,
+    "arg": 2,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1343,
+  "tier": 2,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+9 Fire Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 9,
+    "max": 9,
+    "arg": 2,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1344,
+  "tier": 3,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+10 Fire Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 10,
+    "max": 10,
+    "arg": 2,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1345,
+  "tier": 3,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+11 Fire Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 11,
+    "max": 11,
+    "arg": 2,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1346,
+  "tier": 3,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+12 Fire Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 12,
+    "max": 12,
+    "arg": 2,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1347,
+  "tier": 3,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+13 Fire Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 13,
+    "max": 13,
+    "arg": 2,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1348,
+  "tier": 3,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+14 Fire Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 14,
+    "max": 14,
+    "arg": 2,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1349,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+15 Fire Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 15,
+    "max": 15,
+    "arg": 2,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1350,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+16 Fire Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 16,
+    "max": 16,
+    "arg": 2,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1351,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+17 Fire Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 17,
+    "max": 17,
+    "arg": 2,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1352,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+18 Fire Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 18,
+    "max": 18,
+    "arg": 2,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1353,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+19 Fire Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 19,
+    "max": 19,
+    "arg": 2,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1354,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+20 Fire Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 20,
+    "max": 20,
+    "arg": 2,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1355,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+21 Fire Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 21,
+    "max": 21,
+    "arg": 2,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1356,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+22 Fire Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 22,
+    "max": 22,
+    "arg": 2,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1357,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+23 Fire Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 23,
+    "max": 23,
+    "arg": 2,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1358,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+24 Fire Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 24,
+    "max": 24,
+    "arg": 2,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1359,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+25 Fire Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 25,
+    "max": 25,
+    "arg": 2,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1360,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+26 Fire Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 26,
+    "max": 26,
+    "arg": 2,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1385,
+  "tier": 2,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+5 Nature Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 5,
+    "max": 5,
+    "arg": 3,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1386,
+  "tier": 2,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+6 Nature Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 6,
+    "max": 6,
+    "arg": 3,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1387,
+  "tier": 2,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+7 Nature Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 7,
+    "max": 7,
+    "arg": 3,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1388,
+  "tier": 2,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+8 Nature Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 8,
+    "max": 8,
+    "arg": 3,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1389,
+  "tier": 2,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+9 Nature Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 9,
+    "max": 9,
+    "arg": 3,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1390,
+  "tier": 3,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+10 Nature Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 10,
+    "max": 10,
+    "arg": 3,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1391,
+  "tier": 3,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+11 Nature Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 11,
+    "max": 11,
+    "arg": 3,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1392,
+  "tier": 3,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+12 Nature Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 12,
+    "max": 12,
+    "arg": 3,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1393,
+  "tier": 3,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+13 Nature Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 13,
+    "max": 13,
+    "arg": 3,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1394,
+  "tier": 3,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+14 Nature Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 14,
+    "max": 14,
+    "arg": 3,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1395,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+15 Nature Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 15,
+    "max": 15,
+    "arg": 3,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1396,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+16 Nature Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 16,
+    "max": 16,
+    "arg": 3,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1397,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+17 Nature Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 17,
+    "max": 17,
+    "arg": 3,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1398,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+18 Nature Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 18,
+    "max": 18,
+    "arg": 3,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1399,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+19 Nature Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 19,
+    "max": 19,
+    "arg": 3,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1400,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+20 Nature Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 20,
+    "max": 20,
+    "arg": 3,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1401,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+21 Nature Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 21,
+    "max": 21,
+    "arg": 3,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1402,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+22 Nature Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 22,
+    "max": 22,
+    "arg": 3,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1403,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+23 Nature Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 23,
+    "max": 23,
+    "arg": 3,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1404,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+24 Nature Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 24,
+    "max": 24,
+    "arg": 3,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1405,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+25 Nature Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 25,
+    "max": 25,
+    "arg": 3,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1431,
+  "tier": 2,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+5 Shadow Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 5,
+    "max": 5,
+    "arg": 5,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1432,
+  "tier": 2,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+6 Shadow Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 6,
+    "max": 6,
+    "arg": 5,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1433,
+  "tier": 2,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+7 Shadow Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 7,
+    "max": 7,
+    "arg": 5,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1434,
+  "tier": 2,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+8 Shadow Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 8,
+    "max": 8,
+    "arg": 5,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1435,
+  "tier": 2,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+9 Shadow Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 9,
+    "max": 9,
+    "arg": 5,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1436,
+  "tier": 2,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+10 Shadow Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 10,
+    "max": 10,
+    "arg": 5,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1437,
+  "tier": 2,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+11 Shadow Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 11,
+    "max": 11,
+    "arg": 5,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1438,
+  "tier": 2,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+12 Shadow Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 12,
+    "max": 12,
+    "arg": 5,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1439,
+  "tier": 3,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+13 Shadow Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 13,
+    "max": 13,
+    "arg": 5,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1440,
+  "tier": 3,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+14 Shadow Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 14,
+    "max": 14,
+    "arg": 5,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1441,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+15 Shadow Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 15,
+    "max": 15,
+    "arg": 5,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1442,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+16 Shadow Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 16,
+    "max": 16,
+    "arg": 5,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1443,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+17 Shadow Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 17,
+    "max": 17,
+    "arg": 5,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1444,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+18 Shadow Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 18,
+    "max": 18,
+    "arg": 5,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1445,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+19 Shadow Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 19,
+    "max": 19,
+    "arg": 5,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1446,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+20 Shadow Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 20,
+    "max": 20,
+    "arg": 5,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1447,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+21 Shadow Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 21,
+    "max": 21,
+    "arg": 5,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1448,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+22 Shadow Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 22,
+    "max": 22,
+    "arg": 5,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1449,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+23 Shadow Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 23,
+    "max": 23,
+    "arg": 5,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1450,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+24 Shadow Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 24,
+    "max": 24,
+    "arg": 5,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1451,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+25 Shadow Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 25,
+    "max": 25,
+    "arg": 5,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1483,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+150 Mana",
+  "effects": [
+   {
+    "type": 5,
+    "min": 150,
+    "max": 150,
+    "arg": 0,
+    "stat": "MANA"
+   }
+  ]
+ },
+ {
+  "id": 1503,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+100 Health",
+  "effects": [
+   {
+    "type": 5,
+    "min": 100,
+    "max": 100,
+    "arg": 1,
+    "stat": "HEALTH"
+   }
+  ]
+ },
+ {
+  "id": 1504,
+  "tier": 5,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+125 Armor",
+  "effects": [
+   {
+    "type": 4,
+    "min": 125,
+    "max": 125,
+    "arg": 0,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1523,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+85/14 MANA/FR",
+  "effects": [
+   {
+    "type": 5,
+    "min": 85,
+    "max": 85,
+    "arg": 0,
+    "stat": "MANA"
+   },
+   {
+    "type": 4,
+    "min": 14,
+    "max": 14,
+    "arg": 2,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1524,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+75/14 HP/FR",
+  "effects": [
+   {
+    "type": 5,
+    "min": 75,
+    "max": 75,
+    "arg": 1,
+    "stat": "HEALTH"
+   },
+   {
+    "type": 4,
+    "min": 14,
+    "max": 14,
+    "arg": 2,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1525,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+110/14 AC/FR",
+  "effects": [
+   {
+    "type": 4,
+    "min": 110,
+    "max": 110,
+    "arg": 0,
+    "stat": null
+   },
+   {
+    "type": 4,
+    "min": 14,
+    "max": 14,
+    "arg": 2,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1526,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+10/14 STR/FR",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 15440,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1257,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+15 Arcane Resistance",
+  "effects": [
+   {
+    "type": 4,
+    "min": 15,
+    "max": 15,
+    "arg": 6,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1527,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+10/14 STA/FR",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 15442,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1528,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+10/14 AGI/FR",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 15445,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1529,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+10/14 INT/FR",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 15447,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1530,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+10/14 SPI/FR",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 15456,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1531,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+10/10 STR/STA",
+  "effects": [
+   {
+    "type": 5,
+    "min": 10,
+    "max": 10,
+    "arg": 4,
+    "stat": "STRENGTH"
+   },
+   {
+    "type": 5,
+    "min": 10,
+    "max": 10,
+    "arg": 7,
+    "stat": "STAMINA"
+   }
+  ]
+ },
+ {
+  "id": 1532,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+10/10/110/15 STR/STA/AC/FR",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 15462,
+    "stat": null
+   },
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 15461,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1543,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+10/10/100/15 INT/SPI/MANA/FR",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 15489,
+    "stat": null
+   },
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 15488,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1584,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+6 Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 6,
+    "max": 6,
+    "arg": 38,
+    "stat": "ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 1585,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+8 Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 8,
+    "max": 8,
+    "arg": 38,
+    "stat": "ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 1586,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+10 Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 10,
+    "max": 10,
+    "arg": 38,
+    "stat": "ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 1587,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+12 Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 12,
+    "max": 12,
+    "arg": 38,
+    "stat": "ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 1588,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+14 Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 14,
+    "max": 14,
+    "arg": 38,
+    "stat": "ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 1589,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+16 Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 16,
+    "max": 16,
+    "arg": 38,
+    "stat": "ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 1590,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+18 Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 18,
+    "max": 18,
+    "arg": 38,
+    "stat": "ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 1591,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+20 Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 20,
+    "max": 20,
+    "arg": 38,
+    "stat": "ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 1592,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+22 Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 22,
+    "max": 22,
+    "arg": 38,
+    "stat": "ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 1593,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+24 Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 24,
+    "max": 24,
+    "arg": 38,
+    "stat": "ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 1594,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+26 Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 26,
+    "max": 26,
+    "arg": 38,
+    "stat": "ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 1595,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+28 Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 28,
+    "max": 28,
+    "arg": 38,
+    "stat": "ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 1596,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+30 Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 30,
+    "max": 30,
+    "arg": 38,
+    "stat": "ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 1597,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+32 Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 32,
+    "max": 32,
+    "arg": 38,
+    "stat": "ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 1598,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+34 Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 34,
+    "max": 34,
+    "arg": 38,
+    "stat": "ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 1599,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+36 Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 36,
+    "max": 36,
+    "arg": 38,
+    "stat": "ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 1600,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+38 Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 38,
+    "max": 38,
+    "arg": 38,
+    "stat": "ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 1602,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+42 Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 42,
+    "max": 42,
+    "arg": 38,
+    "stat": "ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 1603,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+44 Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 44,
+    "max": 44,
+    "arg": 38,
+    "stat": "ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 1605,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+48 Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 48,
+    "max": 48,
+    "arg": 38,
+    "stat": "ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 1606,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+50 Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 50,
+    "max": 50,
+    "arg": 38,
+    "stat": "ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 1607,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+52 Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 52,
+    "max": 52,
+    "arg": 38,
+    "stat": "ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 1608,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+54 Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 54,
+    "max": 54,
+    "arg": 38,
+    "stat": "ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 1609,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+56 Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 56,
+    "max": 56,
+    "arg": 38,
+    "stat": "ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 1863,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "Feedback 2",
+  "effects": [
+   {
+    "type": 1,
+    "min": 0,
+    "max": 0,
+    "arg": 19267,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1864,
+  "tier": 4,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "Feedback 3",
+  "effects": [
+   {
+    "type": 1,
+    "min": 0,
+    "max": 0,
+    "arg": 19268,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1865,
+  "tier": 5,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "Feedback 4",
+  "effects": [
+   {
+    "type": 1,
+    "min": 0,
+    "max": 0,
+    "arg": 19269,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1866,
+  "tier": 5,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "Feedback 5",
+  "effects": [
+   {
+    "type": 1,
+    "min": 0,
+    "max": 0,
+    "arg": 19270,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1888,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+5 All Resistances",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 19992,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1890,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+4 Mana and Health every 5 sec",
+  "effects": [
+   {
+    "type": 5,
+    "min": 4,
+    "max": 4,
+    "arg": 43,
+    "stat": "MANA_REGENERATION"
+   },
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21594,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1891,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+4 All Stats",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 19988,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1894,
+  "tier": 4,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "Icy Weapon",
+  "effects": [
+   {
+    "type": 1,
+    "min": 0,
+    "max": 0,
+    "arg": 20005,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1898,
+  "tier": 5,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "Lifestealing",
+  "effects": [
+   {
+    "type": 1,
+    "min": 0,
+    "max": 0,
+    "arg": 20004,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1899,
+  "tier": 5,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "Unholy Weapon",
+  "effects": [
+   {
+    "type": 1,
+    "min": 0,
+    "max": 0,
+    "arg": 20006,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 1900,
+  "tier": 5,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "Crusader",
+  "effects": [
+   {
+    "type": 1,
+    "min": 0,
+    "max": 0,
+    "arg": 20007,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2043,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+10 Ranged Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 10,
+    "max": 10,
+    "arg": 39,
+    "stat": "RANGED_ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2044,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+12 Ranged Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 12,
+    "max": 12,
+    "arg": 39,
+    "stat": "RANGED_ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2045,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+14 Ranged Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 14,
+    "max": 14,
+    "arg": 39,
+    "stat": "RANGED_ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2046,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+17 Ranged Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 17,
+    "max": 17,
+    "arg": 39,
+    "stat": "RANGED_ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2047,
+  "tier": 1,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+19 Ranged Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 19,
+    "max": 19,
+    "arg": 39,
+    "stat": "RANGED_ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2048,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+22 Ranged Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 22,
+    "max": 22,
+    "arg": 39,
+    "stat": "RANGED_ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2049,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+24 Ranged Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 24,
+    "max": 24,
+    "arg": 39,
+    "stat": "RANGED_ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2050,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+26 Ranged Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 26,
+    "max": 26,
+    "arg": 39,
+    "stat": "RANGED_ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2051,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+29 Ranged Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 29,
+    "max": 29,
+    "arg": 39,
+    "stat": "RANGED_ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2052,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+31 Ranged Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 31,
+    "max": 31,
+    "arg": 39,
+    "stat": "RANGED_ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2053,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+34 Ranged Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 34,
+    "max": 34,
+    "arg": 39,
+    "stat": "RANGED_ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2054,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+36 Ranged Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 36,
+    "max": 36,
+    "arg": 39,
+    "stat": "RANGED_ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2055,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+38 Ranged Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 38,
+    "max": 38,
+    "arg": 39,
+    "stat": "RANGED_ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2056,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+41 Ranged Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 41,
+    "max": 41,
+    "arg": 39,
+    "stat": "RANGED_ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2057,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+43 Ranged Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 43,
+    "max": 43,
+    "arg": 39,
+    "stat": "RANGED_ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2058,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+46 Ranged Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 46,
+    "max": 46,
+    "arg": 39,
+    "stat": "RANGED_ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2059,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+48 Ranged Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 48,
+    "max": 48,
+    "arg": 39,
+    "stat": "RANGED_ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2060,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+50 Ranged Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 50,
+    "max": 50,
+    "arg": 39,
+    "stat": "RANGED_ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2061,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+53 Ranged Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 53,
+    "max": 53,
+    "arg": 39,
+    "stat": "RANGED_ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2062,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+55 Ranged Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 55,
+    "max": 55,
+    "arg": 39,
+    "stat": "RANGED_ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2064,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+60 Ranged Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 60,
+    "max": 60,
+    "arg": 39,
+    "stat": "RANGED_ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2065,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+62 Ranged Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 62,
+    "max": 62,
+    "arg": 39,
+    "stat": "RANGED_ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2066,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+65 Ranged Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 65,
+    "max": 65,
+    "arg": 39,
+    "stat": "RANGED_ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2067,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+67 Ranged Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 67,
+    "max": 67,
+    "arg": 39,
+    "stat": "RANGED_ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2068,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+70 Ranged Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 70,
+    "max": 70,
+    "arg": 39,
+    "stat": "RANGED_ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2069,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+72 Ranged Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 72,
+    "max": 72,
+    "arg": 39,
+    "stat": "RANGED_ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2070,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+74 Ranged Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 74,
+    "max": 74,
+    "arg": 39,
+    "stat": "RANGED_ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2071,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+77 Ranged Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 77,
+    "max": 77,
+    "arg": 39,
+    "stat": "RANGED_ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2072,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+79 Ranged Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 79,
+    "max": 79,
+    "arg": 39,
+    "stat": "RANGED_ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2073,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+82 Ranged Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 82,
+    "max": 82,
+    "arg": 39,
+    "stat": "RANGED_ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2074,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+84 Ranged Attack Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 84,
+    "max": 84,
+    "arg": 39,
+    "stat": "RANGED_ATTACK_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2085,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+10 Arcane Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 13596,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2086,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+11 Arcane Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 13597,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2087,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+13 Arcane Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 13598,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2088,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+14 Arcane Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 13599,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2089,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+16 Arcane Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 13601,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2090,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+17 Arcane Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 13602,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2091,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+19 Arcane Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 13603,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2092,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+20 Arcane Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 13604,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2093,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+21 Arcane Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 13605,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2094,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+23 Arcane Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17821,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2095,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+24 Arcane Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17822,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2096,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+26 Arcane Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17823,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2097,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+27 Arcane Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17824,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2098,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+29 Arcane Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17825,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2099,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+30 Arcane Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17826,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2100,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+31 Arcane Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17827,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2101,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+33 Arcane Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17828,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2102,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+34 Arcane Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17829,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2103,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+36 Arcane Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17830,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2104,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+37 Arcane Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17832,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2015,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "Block Level 42",
+  "effects": [
+   {
+    "type": 5,
+    "min": 12,
+    "max": 12,
+    "arg": 15,
+    "stat": "BLOCK_RATING"
+   },
+   {
+    "type": 5,
+    "min": 12,
+    "max": 12,
+    "arg": 4,
+    "stat": "STRENGTH"
+   }
+  ]
+ },
+ {
+  "id": 2106,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+40 Arcane Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17838,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2107,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+41 Arcane Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17839,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2108,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+43 Arcane Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17840,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2109,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+44 Arcane Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17841,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2110,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+46 Arcane Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17842,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2111,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+47 Arcane Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17844,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2112,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+49 Arcane Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17845,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2113,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+50 Arcane Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17846,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2123,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+10 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7709,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2124,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+11 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9412,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2125,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+13 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9413,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2126,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+14 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9414,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2127,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+16 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9324,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2128,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+17 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9325,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2129,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+19 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9326,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2130,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+20 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9327,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2131,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+21 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9328,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2132,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+23 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 14793,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2133,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+24 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 14794,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2134,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+26 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 18008,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2135,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+27 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 18009,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2136,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+29 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 18010,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2137,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+30 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 18011,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2138,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+31 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 18012,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2139,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+33 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 18013,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2140,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+34 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 18014,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2141,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+36 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 18015,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2142,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+37 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 18016,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2143,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+39 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 18017,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2144,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+40 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 18018,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2145,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+41 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 18019,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2146,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+43 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 18020,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2147,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+44 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 18021,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2148,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+46 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 18022,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2149,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+47 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 18023,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2150,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+49 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 18024,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2151,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+50 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 18025,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2152,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+51 Shadow Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 18026,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2161,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+10 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7689,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2162,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+11 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9399,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2163,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+13 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9400,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2164,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+14 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9401,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2165,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+16 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9294,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2166,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+17 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9295,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2167,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+19 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9296,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2168,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+20 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9297,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2169,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+21 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9298,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2170,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+23 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17747,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2171,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+24 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17866,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2172,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+26 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17867,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2174,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+29 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 13830,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2175,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+30 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17869,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2176,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+31 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17870,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2177,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+33 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17871,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2178,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+34 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17872,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2179,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+36 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17873,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2180,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+37 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17874,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2181,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+39 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17684,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2182,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+40 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17875,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2183,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+41 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17876,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2184,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+43 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17878,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2185,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+44 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17879,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2187,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+47 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17881,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2186,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+46 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17880,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2188,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+49 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17882,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2189,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+50 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17884,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2190,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+51 Fire Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17885,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2199,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+10 Holy Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21505,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2200,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+11 Holy Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21506,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2201,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+13 Holy Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21507,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2202,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+14 Holy Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21508,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2203,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+16 Holy Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21509,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2204,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+17 Holy Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21510,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2205,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+19 Holy Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21511,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2206,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+20 Holy Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21512,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2207,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+21 Holy Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21513,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2208,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+23 Holy Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21514,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2209,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+24 Holy Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21515,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2210,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+26 Holy Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21516,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2211,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+27 Holy Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21517,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2212,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+29 Holy Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21518,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2213,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+30 Holy Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21519,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2214,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+31 Holy Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21520,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2215,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+33 Holy Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21521,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2216,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+34 Holy Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21522,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2217,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+36 Holy Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21523,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2218,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+37 Holy Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21524,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2219,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+39 Holy Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21525,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2220,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+40 Holy Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21526,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2221,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+41 Holy Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21527,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2222,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+43 Holy Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21528,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2223,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+44 Holy Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21529,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2224,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+46 Holy Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21530,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2225,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+47 Holy Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21531,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2226,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+49 Holy Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21532,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2227,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+50 Holy Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21533,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2228,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+51 Holy Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21534,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2229,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+53 Holy Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21535,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2237,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+10 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7703,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2238,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+11 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9402,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2239,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+13 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9403,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2240,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+14 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9404,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2241,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+16 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9304,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2242,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+17 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9305,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2243,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+19 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9306,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2244,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+20 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9307,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2245,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+21 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9308,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2246,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+23 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17889,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2247,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+24 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17890,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2248,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+26 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17891,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2249,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+27 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17892,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2250,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+29 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 13831,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2251,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+30 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17893,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2252,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+31 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17894,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2253,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+33 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17895,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2254,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+34 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17896,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2255,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+36 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17897,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2256,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+37 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17898,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2257,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+39 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17899,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2258,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+40 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17900,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2259,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+41 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17901,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2260,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+43 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17902,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2261,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+44 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17903,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2262,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+46 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17905,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2263,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+47 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17906,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2264,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+49 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17907,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2265,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+50 Frost Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17908,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2275,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+10 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 7696,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2276,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+11 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9409,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2277,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+13 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9410,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2278,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+14 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9411,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2279,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+16 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9357,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2280,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+17 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9358,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2281,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+19 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9359,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2282,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+20 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9360,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2283,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+21 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 9361,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2284,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+23 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17987,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2285,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+24 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17988,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2286,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+26 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17989,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2287,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+27 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17990,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2288,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+29 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17819,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2289,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+30 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17991,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2290,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+31 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17992,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2291,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+33 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17993,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2292,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+34 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 16638,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2293,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+36 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17994,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2294,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+37 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17995,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2295,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+39 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17996,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2296,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+40 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17997,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2297,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+41 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17998,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2298,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+43 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 17999,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2299,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+44 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 18000,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2300,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+46 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 18001,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2301,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+47 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 18002,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2302,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+49 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 18003,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2303,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+50 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 18004,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2304,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+51 Nature Spell Damage",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 18005,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2313,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+8 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 8,
+    "max": 8,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2314,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+9 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 9,
+    "max": 9,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2315,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+11 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 11,
+    "max": 11,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2316,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+12 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 12,
+    "max": 12,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2317,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+13 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 13,
+    "max": 13,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2318,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+14 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 14,
+    "max": 14,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2319,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+15 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 15,
+    "max": 15,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2320,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+16 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 16,
+    "max": 16,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2321,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+18 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 18,
+    "max": 18,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2322,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+19 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 19,
+    "max": 19,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2323,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+20 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 20,
+    "max": 20,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2324,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+21 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 21,
+    "max": 21,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2325,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+22 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 22,
+    "max": 22,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2326,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+23 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 23,
+    "max": 23,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2327,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+25 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 25,
+    "max": 25,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2328,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+26 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 26,
+    "max": 26,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2329,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+27 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 27,
+    "max": 27,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2330,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+28 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 28,
+    "max": 28,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2331,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+29 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 29,
+    "max": 29,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2332,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+30 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 30,
+    "max": 30,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2333,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+32 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 32,
+    "max": 32,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2334,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+33 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 33,
+    "max": 33,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2335,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+34 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 34,
+    "max": 34,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2336,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+35 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 35,
+    "max": 35,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2337,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+36 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 36,
+    "max": 36,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2338,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+37 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 37,
+    "max": 37,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2339,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+39 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 39,
+    "max": 39,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2340,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+40 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 40,
+    "max": 40,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2341,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+41 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 41,
+    "max": 41,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2342,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+42 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 42,
+    "max": 42,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2343,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+43 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 43,
+    "max": 43,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2344,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+44 Spell Power",
+  "effects": [
+   {
+    "type": 5,
+    "min": 44,
+    "max": 44,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   }
+  ]
+ },
+ {
+  "id": 2374,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+5 mana every 5 sec.",
+  "effects": [
+   {
+    "type": 5,
+    "min": 5,
+    "max": 5,
+    "arg": 43,
+    "stat": "MANA_REGENERATION"
+   }
+  ]
+ },
+ {
+  "id": 2375,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+5 mana every 5 sec.",
+  "effects": [
+   {
+    "type": 5,
+    "min": 5,
+    "max": 5,
+    "arg": 43,
+    "stat": "MANA_REGENERATION"
+   }
+  ]
+ },
+ {
+  "id": 2376,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+6 mana every 5 sec.",
+  "effects": [
+   {
+    "type": 5,
+    "min": 6,
+    "max": 6,
+    "arg": 43,
+    "stat": "MANA_REGENERATION"
+   }
+  ]
+ },
+ {
+  "id": 2377,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+6 mana every 5 sec.",
+  "effects": [
+   {
+    "type": 5,
+    "min": 6,
+    "max": 6,
+    "arg": 43,
+    "stat": "MANA_REGENERATION"
+   }
+  ]
+ },
+ {
+  "id": 2379,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+7 mana every 5 sec.",
+  "effects": [
+   {
+    "type": 5,
+    "min": 7,
+    "max": 7,
+    "arg": 43,
+    "stat": "MANA_REGENERATION"
+   }
+  ]
+ },
+ {
+  "id": 2381,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+10 mana every 5 sec.",
+  "effects": [
+   {
+    "type": 5,
+    "min": 10,
+    "max": 10,
+    "arg": 43,
+    "stat": "MANA_REGENERATION"
+   }
+  ]
+ },
+ {
+  "id": 2389,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+11 mana every 5 sec.",
+  "effects": [
+   {
+    "type": 5,
+    "min": 11,
+    "max": 11,
+    "arg": 43,
+    "stat": "MANA_REGENERATION"
+   }
+  ]
+ },
+ {
+  "id": 2391,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+12 mana every 5 sec.",
+  "effects": [
+   {
+    "type": 5,
+    "min": 12,
+    "max": 12,
+    "arg": 43,
+    "stat": "MANA_REGENERATION"
+   }
+  ]
+ },
+ {
+  "id": 2393,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+12 mana every 5 sec.",
+  "effects": [
+   {
+    "type": 5,
+    "min": 12,
+    "max": 12,
+    "arg": 43,
+    "stat": "MANA_REGENERATION"
+   }
+  ]
+ },
+ {
+  "id": 2396,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+14 mana every 5 sec.",
+  "effects": [
+   {
+    "type": 5,
+    "min": 14,
+    "max": 14,
+    "arg": 43,
+    "stat": "MANA_REGENERATION"
+   }
+  ]
+ },
+ {
+  "id": 2399,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+15 mana every 5 sec.",
+  "effects": [
+   {
+    "type": 5,
+    "min": 15,
+    "max": 15,
+    "arg": 43,
+    "stat": "MANA_REGENERATION"
+   }
+  ]
+ },
+ {
+  "id": 2426,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+7 health every 5 sec.",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21607,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2430,
+  "tier": 2,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+8 health every 5 sec.",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21109,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2434,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+9 health every 5 sec.",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21614,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2438,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+10 health every 5 sec.",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 21617,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2583,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+10 Defense Rating +10 Stamina +30 Block Value",
+  "effects": [
+   {
+    "type": 5,
+    "min": 10,
+    "max": 10,
+    "arg": 12,
+    "stat": "DEFENSE_SKILL_RATING"
+   },
+   {
+    "type": 5,
+    "min": 10,
+    "max": 10,
+    "arg": 7,
+    "stat": "STAMINA"
+   },
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 23203,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2384,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+9 mana every 5 sec.",
+  "effects": [
+   {
+    "type": 5,
+    "min": 9,
+    "max": 9,
+    "arg": 43,
+    "stat": "MANA_REGENERATION"
+   }
+  ]
+ },
+ {
+  "id": 2585,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+28 Attack Power/+12 Dodge Rating",
+  "effects": [
+   {
+    "type": 5,
+    "min": 28,
+    "max": 28,
+    "arg": 38,
+    "stat": "ATTACK_POWER"
+   },
+   {
+    "type": 5,
+    "min": 12,
+    "max": 12,
+    "arg": 13,
+    "stat": "DODGE_RATING"
+   }
+  ]
+ },
+ {
+  "id": 2586,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+24 Ranged Attack Power/+10 Stamina/+10 Hit Rating",
+  "effects": [
+   {
+    "type": 5,
+    "min": 24,
+    "max": 24,
+    "arg": 39,
+    "stat": "RANGED_ATTACK_POWER"
+   },
+   {
+    "type": 5,
+    "min": 10,
+    "max": 10,
+    "arg": 7,
+    "stat": "STAMINA"
+   },
+   {
+    "type": 5,
+    "min": 10,
+    "max": 10,
+    "arg": 31,
+    "stat": "HIT_RATING"
+   }
+  ]
+ },
+ {
+  "id": 2587,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+13 Spell Power and +15 Intellect",
+  "effects": [
+   {
+    "type": 5,
+    "min": 13,
+    "max": 13,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   },
+   {
+    "type": 5,
+    "min": 15,
+    "max": 15,
+    "arg": 5,
+    "stat": "INTELLECT"
+   }
+  ]
+ },
+ {
+  "id": 2588,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+18 Spell Power and +8 Hit Rating",
+  "effects": [
+   {
+    "type": 5,
+    "min": 18,
+    "max": 18,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   },
+   {
+    "type": 5,
+    "min": 8,
+    "max": 8,
+    "arg": 31,
+    "stat": "HIT_RATING"
+   }
+  ]
+ },
+ {
+  "id": 2589,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+18 Spell Power and +10 Stamina",
+  "effects": [
+   {
+    "type": 5,
+    "min": 18,
+    "max": 18,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   },
+   {
+    "type": 5,
+    "min": 10,
+    "max": 10,
+    "arg": 7,
+    "stat": "STAMINA"
+   }
+  ]
+ },
+ {
+  "id": 2590,
+  "tier": 3,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+13 Spell Power +10 Stamina and +5 Mana every 5 seconds",
+  "effects": [
+   {
+    "type": 5,
+    "min": 13,
+    "max": 13,
+    "arg": 45,
+    "stat": "SPELL_POWER"
+   },
+   {
+    "type": 5,
+    "min": 10,
+    "max": 10,
+    "arg": 7,
+    "stat": "STAMINA"
+   },
+   {
+    "type": 5,
+    "min": 5,
+    "max": 5,
+    "arg": 43,
+    "stat": "MANA_REGENERATION"
+   }
+  ]
+ },
+ {
+  "id": 2661,
+  "tier": 4,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+6 All Stats",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 27959,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2671,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "+50 Arcane and Fire Spell Power",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 27979,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2673,
+  "tier": 5,
+  "class": "ANY",
+  "subclass": null,
+  "desc": "Mongoose",
+  "effects": [
+   {
+    "type": 1,
+    "min": 0,
+    "max": 0,
+    "arg": 28093,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2716,
+  "tier": 4,
+  "class": "ARMOR",
+  "subclass": null,
+  "desc": "+16 Stamina and +100 Armor",
+  "effects": [
+   {
+    "type": 5,
+    "min": 16,
+    "max": 16,
+    "arg": 7,
+    "stat": "STAMINA"
+   },
+   {
+    "type": 4,
+    "min": 100,
+    "max": 100,
+    "arg": 0,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2718,
+  "tier": 3,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "Lesser Rune of Warding",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 42135,
+    "stat": null
+   }
+  ]
+ },
+ {
+  "id": 2719,
+  "tier": 5,
+  "class": "WEAPON",
+  "subclass": null,
+  "desc": "Lesser Ward of Shielding",
+  "effects": [
+   {
+    "type": 3,
+    "min": 0,
+    "max": 0,
+    "arg": 29674,
+    "stat": null
+   }
+  ]
+ }
+]

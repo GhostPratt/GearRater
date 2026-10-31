@@ -1,0 +1,4 @@
+# Blizzard client file extracted by tools/test_gearrater.py; regenerated on demand
+tools/GlobalStrings.lua
+__pycache__/
+*.pyc
