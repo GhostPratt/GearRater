@@ -58,9 +58,28 @@ on anyone but a druid, spell damage of a school the spec never casts). `/gr why`
 zero-weight stats of an item as "ignored".
 
 Weapon DPS is weighted by the weapon type the profile attacks with: full for melee or
-ranged as appropriate, a token amount for the other, and wand DPS for casters. The weights
-describe the spec, not the exact talents chosen; individual talents (Kings, Precision, hit
-caps) are not modelled yet.
+ranged as appropriate, a token amount for the other, and wand DPS for casters.
+
+### Talent adjustments and caps
+
+On top of the spec weights, `GearRater_Talents.lua` adjusts for the talents the character
+has actually taken (enUS talent names, 3.3.5a values):
+
+- Stat multipliers such as Divine Strength, Arcane Mind or Survival of the Fittest scale
+  that stat's weight.
+- Stat conversions such as Careful Aim (Intellect to ranged attack power), Touched by the
+  Light (Strength to spell power) or Mental Quickness (attack power to spell power) add the
+  converted stat's value to the source stat.
+- Attack power multipliers (Deadliness, Savage Combat, Improved Berserker Stance) scale
+  attack power and the stats that mostly feed it.
+- Caps: hit rating is worth nothing once gear plus talents reach the boss cap for the
+  profile's attack type (8% melee and ranged, 17% spell), expertise rating once expertise
+  reaches 26, defense rating once defense reaches 540. Caps are checked against the
+  character's current gear, so they switch on and off as you change equipment.
+
+`/gr talents` lists what currently applies; `/gr talents off` or `/gr talents caps` toggle
+the adjustments or the caps. `/gr weight` marks talent-adjusted weights with `~` and shows
+the base value.
 
 ### Bag overlays
 
@@ -88,6 +107,7 @@ shows the active profile as a Pawn string ready to copy.
 | `/gr spec <number or name>` | override the profile for this character; `/gr spec auto` follows talents again |
 | `/gr weight` | list the active profile's weights |
 | `/gr weight STAT value` | change one weight (saved); `/gr weight reset` restores the defaults |
+| `/gr talents` | show talent and cap adjustments; `/gr talents on|off`, `/gr talents caps` toggle them |
 | `/gr score` | toggle the score line |
 | `/gr ilvl` | toggle the effective item level line |
 | `/gr compare` | toggle the equipped comparison line |
@@ -131,6 +151,5 @@ match a stat is reported as unparsed so gaps are visible.
 
 ## Ideas not yet built
 
-- Talent-aware weight adjustments (Kings-style multipliers, hit caps).
 - Manual values for proc enchants (Crusader, Mongoose) that currently score zero.
 - A character-sheet summary of total gear score.

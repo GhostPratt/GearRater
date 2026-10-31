@@ -32,6 +32,15 @@ function UnitClass(unit) return TEST.class:sub(1,1) .. TEST.class:sub(2):lower()
 function GetNumTalentTabs() return 3 end
 function GetActiveTalentGroup() return 1 end
 function GetTalentTabInfo(i) return "Tab" .. i, "icon", TEST.talents[i] or 0, "bg" end
+TEST.talentList = {}      -- { {name, rank}, ... } flattened into tab 1 for the harness
+TEST.ratingBonus = {}     -- combat rating id -> percent from gear
+TEST.expertise, TEST.defense = 0, { 0, 0 }
+CR_HIT_MELEE, CR_HIT_RANGED, CR_HIT_SPELL = 6, 7, 8
+function GetNumTalents(tab) return tab == 1 and #TEST.talentList or 0 end
+function GetTalentInfo(tab, i) local t = TEST.talentList[i]; if tab ~= 1 or not t then return nil end; return t[1], "icon", 1, 1, t[2], 5 end
+function GetCombatRatingBonus(cr) return TEST.ratingBonus[cr] or 0 end
+function GetExpertise() return TEST.expertise, TEST.expertise end
+function UnitDefense(unit) return TEST.defense[1], TEST.defense[2] end
 TEST.itemInfo = {}   -- link -> { quality, ilvl }
 function GetItemInfo(link)
     local loc = TEST.equipLoc[link or ""] or "INVTYPE_CHEST"
@@ -118,7 +127,7 @@ ItemRefTooltip = TEST.MakeTooltip("ItemRefTooltip", {}, nil)
 L.execute(open(GLOBALSTRINGS, encoding="utf-8", errors="replace").read())
 L.execute(STUBS)
 
-for f in ["GearRater_Enchants.lua", "GearRater_Weights.lua", "GearRater_Score.lua", "GearRater_Budget.lua", "GearRater_Compare.lua", "GearRater_Bags.lua", "GearRater_Import.lua"]:
+for f in ["GearRater_Enchants.lua", "GearRater_Weights.lua", "GearRater_Score.lua", "GearRater_Talents.lua", "GearRater_Budget.lua", "GearRater_Compare.lua", "GearRater_Bags.lua", "GearRater_Import.lua"]:
     L.execute(open(os.path.join(HERE, "..", f), encoding="utf-8").read())
 L.execute(open(ADDON, encoding="utf-8").read())
 # fire ADDON_LOADED
@@ -196,3 +205,4 @@ L.execute(open("scoring.lua", encoding="utf-8").read())
 L.execute(open("budget.lua", encoding="utf-8").read())
 L.execute(open("compare.lua", encoding="utf-8").read())
 L.execute(open("step5.lua", encoding="utf-8").read())
+L.execute(open("talents.lua", encoding="utf-8").read())

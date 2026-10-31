@@ -13,7 +13,7 @@ local CHAT_TAG   = "|cff66ccffGearRater:|r "
 
 local GREEN, GREY, GOLD, WHITE, RED = "|cff33ff33", "|cff9d9d9d", "|cffffd100", "|cffffffff", "|cffff4040"
 
-local defaults = { chat = false, tooltip = false, score = true, ilvl = true, compare = true, bags = true }
+local defaults = { chat = false, tooltip = false, score = true, ilvl = true, compare = true, bags = true, talents = true, caps = true }
 GearRaterDB = GearRaterDB or {}
 
 local function Print(msg) DEFAULT_CHAT_FRAME:AddMessage(CHAT_TAG .. msg) end
@@ -535,6 +535,8 @@ local function PrintBreakdown()
         if not counted then zero[#zero + 1] = prettyName[key] or key end
     end
     if #zero > 0 then Print("  " .. GREY .. "ignored (weight 0): " .. table.concat(zero, ", ") .. "|r") end
+    local _, notes = GearRater.GetWeights(profile)
+    for _, n in ipairs(notes or {}) do Print("  " .. GREY .. "talents: " .. n .. "|r") end
     Print("  Score: " .. ScoreText(lastScore))
     if lastCompare then
         Print("  Equipped: " .. CompareText(lastCompare)
@@ -590,16 +592,39 @@ local function HandleWeight(arg)
         Print(profile.name .. ": " .. stat .. " = " .. value)
         return
     end
-    local w = GearRater.GetWeights(profile)
+    local base = GearRater.GetBaseWeights(profile)
+    local w, notes = GearRater.GetWeights(profile)
     local custom = GearRaterDB.weights[profile.name] or {}
     local keys = {}
     for k in pairs(w) do keys[#keys + 1] = k end
-    table.sort(keys, function(a, b) return w[a] > w[b] end)
-    Print("weights for " .. WHITE .. profile.name .. "|r" .. (next(custom) and GREY .. " (* = customised)|r" or ""))
+    table.sort(keys, function(a, b) return (w[a] or 0) > (w[b] or 0) end)
+    Print("weights for " .. WHITE .. profile.name .. "|r" .. (next(custom) and GREY .. " (* = customised, ~ = talent adjusted)|r" or GREY .. " (~ = talent adjusted)|r"))
     for _, k in ipairs(keys) do
-        Print(string.format("  %-28s %s%s", k, FormatValue(w[k]), custom[k] ~= nil and " *" or ""))
+        local adj = base[k] ~= w[k] and string.format("  %s~ base %s|r", GREY, FormatValue(base[k] or 0)) or ""
+        Print(string.format("  %-28s %s%s%s", k, FormatValue(w[k] or 0), custom[k] ~= nil and " *" or "", adj))
     end
+    for _, n in ipairs(notes or {}) do Print("  " .. GREY .. "talents: " .. n .. "|r") end
     Print(GREY .. "/gr weight STAT value  to change,  /gr weight reset  to restore defaults|r")
+end
+
+local function HandleTalents(arg)
+    if not GearRater.AdjustWeights then Print("talent module not loaded"); return end
+    if arg == "off" or arg == "on" then
+        GearRaterDB.talents = (arg == "on")
+    elseif arg == "caps" then
+        GearRaterDB.caps = not GearRaterDB.caps
+    end
+    if GearRater.InvalidateTalents then GearRater.InvalidateTalents() end
+    if GearRater.InvalidateEquipped then GearRater.InvalidateEquipped() end
+    local profile = GearRater.GetActiveProfile()
+    Print("talent adjustments " .. (GearRaterDB.talents and "on" or "off") .. ", caps " .. (GearRaterDB.caps and "on" or "off")
+        .. (profile and ("  profile " .. WHITE .. profile.name .. "|r") or ""))
+    if profile then
+        local _, notes = GearRater.GetWeights(profile)
+        if #notes == 0 then Print("  " .. GREY .. "no talent or cap adjustments apply|r") end
+        for _, n in ipairs(notes) do Print("  " .. n) end
+    end
+    Print(GREY .. "/gr talents on|off  toggle adjustments,  /gr talents caps  toggle hit/expertise/defense caps|r")
 end
 
 -------------------------------------------------------------------------------
@@ -659,6 +684,8 @@ SlashCmdList.GEARRATER = function(msg)
         HandleSpec(msg:match("^spec%s+(.+)$"))
     elseif msg == "weight" or msg == "weights" or msg:match("^weights?%s") then
         HandleWeight(msg:match("^weights?%s+(.+)$"))
+    elseif msg == "talents" or msg:match("^talents%s") then
+        HandleTalents(msg:match("^talents%s+(.+)$"))
     elseif msg == "dump" then
         if lastResult then DumpToChat(lastName, lastLink, lastResult, lastScore, lastLevel, lastCompare) else Print("nothing scanned yet") end
     elseif msg == "raw" then
@@ -677,7 +704,7 @@ SlashCmdList.GEARRATER = function(msg)
         Print(#statPatterns .. " stat patterns built from global strings")
         for _, p in ipairs(statPatterns) do Print("  " .. p.key .. "  " .. GREY .. p.pat .. "|r") end
     else
-        Print("commands: /gr why | spec | weight | import | export | bags | score | compare | ilvl | tip | chat | dump | raw | save | clear | patterns")
+        Print("commands: /gr why | spec | weight | talents | import | export | bags | score | compare | ilvl | tip | chat | dump | raw | save | clear | patterns")
     end
 end
 

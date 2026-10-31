@@ -2,7 +2,7 @@
 ## Title: Gear Rater
 ## Notes: Rates gear by the stats actually on it (including random enchants), weighted for your class and spec.
 ## Author: Phillip Pratt
-## Version: 0.5.0
+## Version: 0.6.0
 ## SavedVariables: GearRaterDB
 ## SavedVariablesPerCharacter: GearRaterCharDB
 ## X-Category: Inventory
@@ -10,6 +10,7 @@
 GearRater_Enchants.lua
 GearRater_Weights.lua
 GearRater_Score.lua
+GearRater_Talents.lua
 GearRater_Budget.lua
 GearRater_Compare.lua
 GearRater_Bags.lua

@@ -66,14 +66,26 @@ function GR.ProfilesForClass()
     return list
 end
 
--- Effective weights: SavedVariables overrides (GearRaterDB.weights[profile][STAT]) on top of the defaults.
-function GR.GetWeights(profile)
+-- Base weights: SavedVariables overrides (GearRaterDB.weights[profile][STAT]) on top of the defaults.
+function GR.GetBaseWeights(profile)
     local custom = GearRaterDB and GearRaterDB.weights and GearRaterDB.weights[profile.name]
-    if not custom then return profile.weights end
     local w = {}
     for k, v in pairs(profile.weights) do w[k] = v end
-    for k, v in pairs(custom) do w[k] = v end
+    if custom then for k, v in pairs(custom) do w[k] = v end end
     return w
+end
+
+-- Effective weights: base weights adjusted for the character's talents and caps.
+-- Returns weights and the list of adjustment notes.
+GR.lastWeightNotes = {}
+function GR.GetWeights(profile)
+    local w = GR.GetBaseWeights(profile)
+    if GR.AdjustWeights then
+        local notes
+        w, notes = GR.AdjustWeights(profile, w)
+        GR.lastWeightNotes = notes or {}
+    end
+    return w, GR.lastWeightNotes
 end
 
 -------------------------------------------------------------------------------
