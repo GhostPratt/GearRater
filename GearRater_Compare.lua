@@ -51,7 +51,8 @@ function GR.EquippedScore(slot)
     local total = GR.Score(result, link)
     local name = GetItemInfo(link)
     local equipLoc = select(9, GetItemInfo(link))
-    hit = { score = total or 0, name = name or "?", link = link, equipLoc = equipLoc, slot = slot }
+    local lvl = GR.EffectiveLevel and GR.EffectiveLevel(result, link) or nil
+    hit = { score = total or 0, name = name or "?", link = link, equipLoc = equipLoc, slot = slot, lvl = lvl }
     cache[slot] = hit
     return hit
 end

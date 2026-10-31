@@ -127,7 +127,7 @@ ItemRefTooltip = TEST.MakeTooltip("ItemRefTooltip", {}, nil)
 L.execute(open(GLOBALSTRINGS, encoding="utf-8", errors="replace").read())
 L.execute(STUBS)
 
-for f in ["GearRater_Enchants.lua", "GearRater_Weights.lua", "GearRater_Score.lua", "GearRater_Talents.lua", "GearRater_Budget.lua", "GearRater_Compare.lua", "GearRater_Bags.lua", "GearRater_Import.lua"]:
+for f in ["GearRater_Enchants.lua", "GearRater_Weights.lua", "GearRater_Score.lua", "GearRater_Talents.lua", "GearRater_Budget.lua", "GearRater_Compare.lua", "GearRater_Bags.lua", "GearRater_Import.lua", "GearRater_Character.lua"]:
     L.execute(open(os.path.join(HERE, "..", f), encoding="utf-8").read())
 L.execute(open(ADDON, encoding="utf-8").read())
 # fire ADDON_LOADED
@@ -206,3 +206,4 @@ L.execute(open("budget.lua", encoding="utf-8").read())
 L.execute(open("compare.lua", encoding="utf-8").read())
 L.execute(open("step5.lua", encoding="utf-8").read())
 L.execute(open("talents.lua", encoding="utf-8").read())
+L.execute(open("character.lua", encoding="utf-8").read())

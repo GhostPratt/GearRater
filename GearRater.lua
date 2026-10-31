@@ -13,7 +13,7 @@ local CHAT_TAG   = "|cff66ccffGearRater:|r "
 
 local GREEN, GREY, GOLD, WHITE, RED = "|cff33ff33", "|cff9d9d9d", "|cffffd100", "|cffffffff", "|cffff4040"
 
-local defaults = { chat = false, tooltip = false, score = true, ilvl = true, compare = true, bags = true, talents = true, caps = true }
+local defaults = { chat = false, tooltip = false, score = true, ilvl = true, compare = true, bags = true, talents = true, caps = true, sheet = true }
 GearRaterDB = GearRaterDB or {}
 
 local function Print(msg) DEFAULT_CHAT_FRAME:AddMessage(CHAT_TAG .. msg) end
@@ -686,6 +686,25 @@ SlashCmdList.GEARRATER = function(msg)
         HandleWeight(msg:match("^weights?%s+(.+)$"))
     elseif msg == "talents" or msg:match("^talents%s") then
         HandleTalents(msg:match("^talents%s+(.+)$"))
+    elseif msg == "char" or msg == "character" then
+        if not GearRater.CharacterSummary then Print("character module not loaded"); return end
+        local s = GearRater.CharacterSummary()
+        Print(string.format("equipped gear score %s%.1f|r  profile %s%s|r (%s)", WHITE, s.total, WHITE, s.profile and s.profile.name or "?", s.how or "?"))
+        if s.count > 0 then
+            Print(string.format("  average item level %s%.1f|r, %s%.1f|r with enchants over %d items", WHITE, s.avgIlvl, WHITE, s.avgEff, s.count))
+        end
+        for _, row in ipairs(s.slots) do
+            if row.item then
+                Print(string.format("  %s%-14s|r %-32s %7.1f  %s", GOLD, row.name, row.item, row.score,
+                    row.eff and string.format("%silvl %.0f|r", GREY, row.eff) or ""))
+            else
+                Print(string.format("  %s%-14s empty|r", GREY, row.name))
+            end
+        end
+    elseif msg == "sheet" then
+        GearRaterDB.sheet = not GearRaterDB.sheet
+        Print("character sheet summary " .. (GearRaterDB.sheet and "on" or "off"))
+        if GearRater.RefreshCharacter then GearRater.RefreshCharacter() end
     elseif msg == "dump" then
         if lastResult then DumpToChat(lastName, lastLink, lastResult, lastScore, lastLevel, lastCompare) else Print("nothing scanned yet") end
     elseif msg == "raw" then
@@ -704,7 +723,7 @@ SlashCmdList.GEARRATER = function(msg)
         Print(#statPatterns .. " stat patterns built from global strings")
         for _, p in ipairs(statPatterns) do Print("  " .. p.key .. "  " .. GREY .. p.pat .. "|r") end
     else
-        Print("commands: /gr why | spec | weight | talents | import | export | bags | score | compare | ilvl | tip | chat | dump | raw | save | clear | patterns")
+        Print("commands: /gr why | char | spec | weight | talents | import | export | bags | sheet | score | compare | ilvl | tip | chat | dump | raw | save | clear | patterns")
     end
 end
 
